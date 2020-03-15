@@ -8,3 +8,7 @@ Sample website with plenty of files for demos
 
 ## Copyright
 copyright copyright
+
+## How to contribute
+
+Please fork this repo and issue pull request for review
