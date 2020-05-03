@@ -8,8 +8,9 @@ Adding a line for rebase example, change from my myfeature file too
 Sample website with plenty of files for demos
 
 ## Copyright
-copyright copyright
+copyright All Rights Reserved
 
 ## How to contribute
 
 Please fork this repo and issue pull request for review
+
