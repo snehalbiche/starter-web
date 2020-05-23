@@ -11,6 +11,7 @@
     Thanks to All my students
 
 # TECHNOLOGY COLOPHON
-
+	
+	Added for stash example
     HTML5, CSS3
     jQuery, Modernizr
